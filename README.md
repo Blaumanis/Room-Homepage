@@ -1,2 +1,4 @@
 # Room-Homepage
-Frontend mentor project
+Frontend Mentor challenge
+
+https://frontend-room-homepage.netlify.app/
